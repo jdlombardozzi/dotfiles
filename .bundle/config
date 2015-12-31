@@ -1,0 +1,4 @@
+---
+BUNDLE_LOCAL__GDITWEB: /Users/jlombardozzi/Sites/gditweb4
+BUNDLE_INSTALL__GDITWEB: --path /Users/jlombardozzi/Sites/gditweb4
+BUNDLE_BUILD__LIBV8: --with-system-v8
