@@ -135,3 +135,6 @@ export PATH="/usr/local/opt/node@8/bin:$PATH"
 export PATH=~/Library/Python/3.7/bin/:$PATH
 export PATH=/usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/bin:$PATH
 export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
+
+# Keyboard repeat rate
+# defaults write NSGlobalDomain InitialKeyRepeat -int 15
